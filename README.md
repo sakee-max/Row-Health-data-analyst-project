@@ -8,14 +8,14 @@ The budget is allocated to drive two primary objectives: 1) to raise awareness o
 ## Dataset Structure
 The dataset consisted of one table containing campaign and signup information.
 
-
+<img width="1587" height="1793" alt="ID" src="https://github.com/user-attachments/assets/e19cabec-d067-458b-8a5e-3ea4b0af9fea" />
 
 ## Insights Summary
 #### To evaluate campaign performance, we focused on the following key metrics:
 **To increase awareness**: 
 - ** Click-through Rate**: The percentage of people who see a campaign and click on the associated link.
 
-**To increase sign-ups **:
+To increase sign-ups:
 - **Signup Rate**: The percentage of people who see a campaign and subsequently sign up for a Row Health plan. 
 - **Cost per Signup**: The average dollars spent to acquire a signup from each campaign.
 
@@ -32,18 +32,14 @@ The dataset consisted of one table containing campaign and signup information.
 Signup rate at 0.28%
 
 #### Cost per Signup
-- Across campaign categories, Golden Years security had by far the highest cost per signup ($124.1), as well as the lowest number of signups (23), compared to an average of $2.2.
+- Across campaign categories, Golden Years Security had by far the highest cost per signup ($124.1), as well as the lowest number of signups (23), compared to an average of $2.2.
 - Within the two campaign categories with the highest cost per signup, Product Promotion drove the high costs per signup.
 
 ## Recommendations
-- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($20K) on them.    
+- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($20K) in it.    
 - Health awareness: Within Health for All campaigns, focus on Policy Information-type campaigns, and less on Offer Announcement-type campaigns, which had low signup rate and CTR.
 - Golden Years Campaigns: Investigate the cause of high cost per signup for these campaign categories, which had high CACs compared to an average signup cost of $2.2. Consider removing these campaigns altogether after exploring the root cause. 
 - #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
 
 ## Presentation Sample
-The presentation for the marketing team walks through the insights and recommendations above and is available [here](https://docs.google.com/presentation/d/1WezCDO--bK_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1). Some extracts are below for easy viewing.
-
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/ee52d0f8-1552-4a35-ba04-a65634560f2d">
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/5c964664-41ee-4773-bec8-cbe3bab3063a">
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/30a06221-ddbd-4447-aadd-287c622b5a2f">
+The presentation for the marketing team walks through the insights and recommendations above and is available [here](https://docs.google.com/presentation/d/1WezCDO--bK_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1).                                                                                                                                                                                                                                                                          
