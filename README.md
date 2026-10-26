@@ -8,11 +8,12 @@ The budget is allocated to drive two primary objectives: 1) to raise awareness o
 ## Dataset Structure
 The dataset consisted of one table containing campaign and signup information.
 
-<img width="1587" height="1793" alt="ID" src="https://github.com/user-attachments/assets/e19cabec-d067-458b-8a5e-3ea4b0af9fea" />
+<img width="1587" height="1801" alt="ID" src="https://github.com/user-attachments/assets/c0d29434-42ee-4638-b9cd-cccaaff411a1" />
 
 ## Insights Summary
 #### To evaluate campaign performance, we focused on the following key metrics:
-**To increase awareness**: 
+
+To increase awareness: 
 - ** Click-through Rate**: The percentage of people who see a campaign and click on the associated link.
 
 To increase sign-ups:
@@ -42,4 +43,5 @@ Signup rate at 0.28%
 - #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
 
 ## Presentation Sample
-The presentation for the marketing team walks through the insights and recommendations above and is available [here](https://docs.google.com/presentation/d/1WezCDO--bK_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1).                                                                                                                                                                                                                                                                          
+The presentation for the marketing team walks through the insights and recommendations above and is available [here](https://docs.google.com/presentation/d/1WezCDO--b
+K_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1).                                                                                                                                                                                                                                                                          
