@@ -37,7 +37,7 @@ Signup rate at 0.28%
 - Within the two campaign categories with the highest cost per signup, Product Promotion drove the high costs per signup.
 
 ## Recommendations
-- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($20K) in it.    
+- Health for All: Reallocate budget from Golden Years Security, which had a high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a  relatively low amount ($2K) in it.    
 - Health awareness: Within Health for All campaigns, focus on Policy Information-type campaigns, and less on Offer Announcement-type campaigns, which had low signup rate and CTR.
 - Golden Years Campaigns: Investigate the cause of high cost per signup for these campaign categories, which had high CACs compared to an average signup cost of $2.2. Consider removing these campaigns altogether after exploring the root cause. 
 - #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
