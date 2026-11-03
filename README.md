@@ -43,4 +43,7 @@ Signup rate at 0.28%
 - #HealthLiving: Decrease investment in this campaign category, which has the highest spend ($4.6k) but mediocre signup rates compared to Health for All campaigns.
 
 ## Presentation Sample
-The presentation for the marketing team walks through the insights and recommendations above and is available <a href="https://docs.google.com/presentation/d/1WezCDO--bK_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1">here</a>                                                                                                                                                                                                                                                                     
+The presentation for the marketing team walks through the insights and recommendations above and is available <a href="https://docs.google.com/presentation/d/1WezCDO--bK_CY9Pohd6IbhEh-77RV2WcnW8kCJ3uxs4/edit?slide=id.p1#slide=id.p1">here</a>   
+
+Some extracts are presented below for easy viewing <img width="561" height="316" alt="Screenshot 2026-11-03 142415" src="https://github.com/user-attachments/assets/e7061913-9292-4d5b-ada6-313207606863" />
+
